@@ -2,16 +2,23 @@
 <br/>
 <p>Many students and professionals encounter challenges when they need temporary access to electronic devices. The high upfront cost of purchasing new devices, combined with a lack of affordable, flexible rental solutions, can leave individuals without the necessary technology during critical times. Additionally, existing rental services may not offer the convenience or variety needed to address diverse and immediate requirements effectively.</p>
 <br/>
-<h1>Screenshot</h1>![Screenshot (51)](https://github.com/user-attachments/assets/ecd670c7-f174-4237-a9e5-6865e7ee76b9)
-![Screenshot (50)](https://github.com/user-attachments/assets/10a35774-fbaf-4ec4-a7d9-f76a6d29e07e)
-![Screenshot (49)](https://github.com/user-attachments/assets/766eb80b-3906-4e38-8118-426f0a00c40a)
-![Screenshot (48)](https://github.com/user-attachments/assets/92442c4c-34a2-446d-bf7f-ed5cff19fd57)
-![Screenshot (47)](https://github.com/user-attachments/assets/d72772e2-f093-4c4a-9e30-6b7c71911a03)
-![Screenshot (46)](https://github.com/user-attachments/assets/e586c1dd-1459-4207-877e-0123bc4444ac)
-![Screenshot (45)](https://github.com/user-attachments/assets/bde18d0a-3cd0-4ef1-b4c7-0c9392259161)
-![Screenshot (44)](https://github.com/user-attachments/assets/71a3c143-548f-4e3b-bfb0-38e21166d2d1)
-![Screenshot (43)](https://github.com/user-attachments/assets/e146a8ff-590a-4edc-bf87-638490ad86e8)
-![Screenshot (42)](https://github.com/user-attachments/assets/5af9ba9d-4774-491b-b1a4-e23f80042f45)
-![Screenshot (41)](https://github.com/user-attachments/assets/ff8b624a-a16f-4ce7-9499-ac5b0c071f1d)
+<h1>Screenshot</h1>
+
+
+![Screenshot (41)](https://github.com/user-attachments/assets/8597cf45-a529-4c8b-8348-5b70c2d42702)
+
+
+![Screenshot (42)](https://github.com/user-attachments/assets/6380bdd4-e6b8-4886-96d1-d59007342722)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/f38e580e-51b9-4a4e-8935-fdfe21a26332)
+![Screenshot (44)](https://github.com/user-attachments/assets/b1600fe1-62fa-4f60-8059-b0e1ba7be370)
+![Screenshot (45)](https://github.com/user-attachments/assets/6f43748d-4fed-4d9b-8413-590f63a4362a)
+![Screenshot (46)](https://github.com/user-attachments/assets/4b8af8bd-81b5-45bf-a8ab-a71c60eef007)
+![Screenshot (47)](https://github.com/user-attachments/assets/bbe59d13-71ce-477f-ac15-f95c234f1485)
+![Screenshot (48)](https://github.com/user-attachments/assets/1cc4c0b7-d8c7-4cda-9c9f-4ed31e160f54)
+![Screenshot (49)](https://github.com/user-attachments/assets/81bc1b7a-73ac-4bf0-9f9c-561be90fe74e)
+![Screenshot (50)](https://github.com/user-attachments/assets/28e15328-c28d-4c98-b065-03839a859bea)
+![Screenshot (51)](https://github.com/user-attachments/assets/110330d5-620c-4bfc-b9ba-2e3758089541)
+
 
 
