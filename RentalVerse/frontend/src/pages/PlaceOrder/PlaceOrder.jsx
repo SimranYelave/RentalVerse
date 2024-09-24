@@ -1,6 +1,8 @@
-import React, { useContext } from 'react'
-import './PlaceOrder.css'
-import { StoreContext } from '../../context/StoreContext'
+import React, { useContext } from 'react';
+import './PlaceOrder.css';
+import { StoreContext } from '../../context/StoreContext';
+import { assets } from '../../assets/assets';
+
 
 const PlaceOrder = () => {
 
@@ -27,7 +29,7 @@ const PlaceOrder = () => {
         <input type="text" placeholder='Phone' />
       </div>
       <div className="place-order-right">
-      <div className="cart-total">
+        <div className="cart-total">
           <h2>Cart Totals</h2>
           <div>
           <div className="cart-total-details">
@@ -45,7 +47,21 @@ const PlaceOrder = () => {
               <b>${getTotalCartAmount()===0?0:getTotalCartAmount()+2}</b>
             </div>
           </div>
-          <button>PROCEED TO PAYMENT</button>
+           
+           <div className="pay">
+
+          <button className="btns" id="btn-1">
+          <img src={assets.app_store} alt="paypal"></img>
+          </button >
+          <button className="btns" id="btn-2">
+          <img src={assets.cred} alt="debit_card"></img>
+          </button>
+          <button className="btns" id="btn-3">
+          CASH ON DELIVERY
+          </button>
+         
+           </div>
+
         </div>
 
       </div>
