@@ -51,10 +51,10 @@ const PlaceOrder = () => {
            <div className="pay">
 
           <button className="btns" id="btn-1">
-          <img src={assets.app_store} alt="paypal"></img>
+          <img src={assets.cred} alt="paypal"></img>
           </button >
           <button className="btns" id="btn-2">
-          <img src={assets.cred} alt="debit_card"></img>
+          <img src={assets.pal} alt="debit_card"></img>
           </button>
           <button className="btns" id="btn-3">
           CASH ON DELIVERY
