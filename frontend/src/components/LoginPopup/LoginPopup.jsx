@@ -15,8 +15,21 @@ const LoginPopup = ({setShowLogin}) => {
         </div>
         <div className="login-popup-inputs">
           {currState==="Login"?<></>:<input type="text" placeholder='Your name' required/>}
-          <input type="email" placeholder='Your email' required />
+          <input type="email" placeholder='Your Email' required />
           <input type="password" placeholder='Password' required />
+
+          <div className="radio">
+          <div className="radio-1">
+          <input type ="radio" name="butt" id="Butt-1" value="seller" required/>
+          <label for="seller">Seller</label>
+          </div>
+          <div className="radio-2">
+          <input type ="radio" name="butt" id="Butt-2" value="buyer" required/>
+          <label for="buyer">Buyer</label>
+          </div>
+
+          </div>
+
         </div>
         <button>{currState==="Sign Up"?"Create account":"Login"}</button>
         <div className="login-popup-condition">
@@ -24,8 +37,8 @@ const LoginPopup = ({setShowLogin}) => {
           <p>By continuing, i agree to the terms of use & privacy policy.</p>
         </div>
         {currState==="Login"
-        ?<p>Create a new account? <span onClick={()=>setCurrState("Sign Up")}>Click here</span></p>
-        :<p>Already have an account? <span onClick={()=>setCurrState("Login")}>Login here</span></p>
+        ?<p>Create a new account? <span onClick={()=>setCurrState("Sign Up")}>CLICK HERE</span></p>
+        :<p>Already have an account? <span onClick={()=>setCurrState("Login")}>LOGIN</span></p>
         }
       </form>
     </div>
