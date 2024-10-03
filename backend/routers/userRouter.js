@@ -6,4 +6,4 @@ const userRouter = express.Router()
 userRouter.post('/SignUP',SignUser)// creating a endpoint
 userRouter.post('/Login',loginUser)// creating a endpoint
 
-export default userRouter
+export default userRouter;

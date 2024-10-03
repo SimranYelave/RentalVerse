@@ -3,6 +3,7 @@ import express from 'express';
 import cors from 'cors';
 import {connectDB} from "../backend/config/db.js";// importing the module form another file 
 import Router from "../backend/routers/router.js";// importing the module form another file 
+import userRouter from './routers/userRouter.js';
 
 
 //app config 
@@ -20,7 +21,7 @@ connectDB();
 //api endpoints
 app.use("/api/laptop",Router)
 app.use("/images",express.static('uploads'))// due to this uploads folder will be exposed to the /images endpoint
-
+app.use("/api/user",userRouter)
 
  app.get("/",(req,res)=>{
 

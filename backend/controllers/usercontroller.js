@@ -23,12 +23,16 @@ const SignUser = async (req,res)=>{
         console.log(`${email} already exits`)
         // validating
 
-        if(validator.isEmail(email)){
+        if(!validator.isEmail(email)){
             return res.json({success:false,message:"please enter a valid email id"})
         }else{
             return res.json({success:true,message:"stfu"})
-           
+           }
+
+        if(password.length<8){
+            return res.json({success:false,message:"please enter a strong password"})
         }
+
     }catch(error){
         console.log(error)
 
