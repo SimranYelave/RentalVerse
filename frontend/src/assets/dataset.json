@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question": "What is RentalVerse?",
+      "answer": "RentalVerse is a platform for renting laptops and accessories to students and working professionals."
+    },
+    {
+      "question": "How do I place an order on RentalVerse?",
+      "answer": "You can place an order by visiting the 'PlaceOrder' page and filling out the necessary details."
+    },
+    {
+      "question": "What types of laptops are available for rent?",
+      "answer": "RentalVerse offers a wide variety of laptops including gaming laptops, ultrabooks, and budget-friendly laptops for students."
+    },
+    {
+      "question": "Are the laptops new or used?",
+      "answer": "The laptops available on RentalVerse are refurbished, fully functional, and come with a quality guarantee."
+    },
+    {
+      "question": "Is there a minimum rental period?",
+      "answer": "Yes, the minimum rental period is 1 month."
+    },
+    {
+      "question": "Can I rent a laptop for more than 6 months?",
+      "answer": "Yes, you can rent laptops for up to 12 months with options for extension."
+    },
+    {
+      "question": "How do I extend my rental period?",
+      "answer": "You can extend your rental period by visiting the 'My Orders' section and requesting an extension."
+    },
+    {
+      "question": "What happens if I need to cancel my rental?",
+      "answer": "You can cancel your rental by contacting our support team. Cancellation policies may apply depending on your rental duration."
+    },
+    {
+      "question": "Is there a security deposit required?",
+      "answer": "Yes, a refundable security deposit is required for all rentals."
+    },
+    {
+      "question": "How is the security deposit calculated?",
+      "answer": "The security deposit is based on the value of the laptop and the rental period."
+    },
+    {
+      "question": "How do I get my security deposit back?",
+      "answer": "Your security deposit will be refunded once the laptop is returned in good condition."
+    },
+    {
+      "question": "What if the laptop gets damaged during the rental period?",
+      "answer": "You will be responsible for any damage to the laptop. Repair costs will be deducted from your security deposit."
+    },
+    {
+      "question": "Are accidental damage protection plans available?",
+      "answer": "Yes, you can add an accidental damage protection plan to your rental for an additional fee."
+    },
+    {
+      "question": "Can I rent accessories like a mouse or laptop bag?",
+      "answer": "Yes, RentalVerse offers accessories such as mice, laptop bags, and external hard drives for rent."
+    },
+    {
+      "question": "Do you offer discounts for students?",
+      "answer": "Yes, we offer special discounts for students with a valid student ID."
+    },
+    {
+      "question": "Can working professionals also get a discount?",
+      "answer": "We occasionally offer discounts for working professionals during special promotions."
+    },
+    {
+      "question": "How do I apply for a student discount?",
+      "answer": "You can apply for a student discount by uploading your valid student ID during the checkout process."
+    },
+    {
+      "question": "Is there a delivery fee for rentals?",
+      "answer": "Delivery is free for all rentals within certain areas. Outside these areas, a nominal delivery fee applies."
+    },
+    {
+      "question": "How long does it take for the laptop to be delivered?",
+      "answer": "Delivery typically takes 2-3 business days, depending on your location."
+    },
+    {
+      "question": "Can I track the delivery of my rented laptop?",
+      "answer": "Yes, once your order is processed, you'll receive a tracking number to monitor the delivery status."
+    },
+    {
+      "question": "Do you offer same-day delivery?",
+      "answer": "Same-day delivery is available in select cities for an additional fee."
+    },
+    {
+      "question": "Can I pick up the laptop from a RentalVerse location?",
+      "answer": "Yes, you can choose to pick up your rental from our local store or fulfillment center."
+    },
+    {
+      "question": "Do you offer laptops with specific software pre-installed?",
+      "answer": "Yes, you can request pre-installed software such as Microsoft Office or Adobe Creative Suite at an additional cost."
+    },
+    {
+      "question": "Can I install my own software on the rented laptop?",
+      "answer": "Yes, you are allowed to install your own software during the rental period, provided it's legal and licensed."
+    },
+    {
+      "question": "Are the laptops configured with the latest updates?",
+      "answer": "Yes, all laptops are provided with the latest operating system updates and security patches."
+    },
+    {
+      "question": "Do I need to sign any documents when renting?",
+      "answer": "Yes, you will need to sign a rental agreement before receiving the laptop."
+    },
+    {
+      "question": "How can I make a payment for my rental?",
+      "answer": "Payments can be made through credit/debit cards, UPI, or other digital payment methods."
+    },
+    {
+      "question": "Can I pay the rental fee in installments?",
+      "answer": "Yes, we offer an installment payment option for rentals exceeding 3 months."
+    },
+    {
+      "question": "Are there any late fees if I don't return the laptop on time?",
+      "answer": "Yes, late returns may incur additional fees depending on how long the delay is."
+    },
+    {
+      "question": "Can I switch laptops during the rental period?",
+      "answer": "You can switch laptops during the rental period, but this is subject to availability and may incur additional fees."
+    },
+    {
+      "question": "What happens if the laptop stops working during the rental period?",
+      "answer": "If the laptop encounters technical issues, RentalVerse will provide you with a replacement at no extra cost."
+    },
+    {
+      "question": "Can I rent multiple laptops at once?",
+      "answer": "Yes, you can rent multiple laptops at once for personal or business use."
+    },
+    {
+      "question": "Is there a discount for bulk orders?",
+      "answer": "Yes, we offer discounts for bulk orders, especially for businesses and institutions."
+    },
+    {
+      "question": "How do I return the rented laptop?",
+      "answer": "You can return the laptop by scheduling a pickup or dropping it off at one of our return locations."
+    },
+    {
+      "question": "Can I upgrade to a better laptop during the rental period?",
+      "answer": "Yes, you can upgrade to a higher-spec laptop, subject to availability and rental plan adjustments."
+    },
+    {
+      "question": "Is customer support available 24/7?",
+      "answer": "Our customer support is available during regular business hours, but emergency support is available 24/7."
+    },
+    {
+      "question": "What should I do if I face technical issues with the laptop?",
+      "answer": "If you encounter any issues, contact our support team, and we'll assist you remotely or provide a replacement if needed."
+    },
+    {
+      "question": "Can I pause my rental plan?",
+      "answer": "Rental plans cannot be paused. However, you can return the laptop early and rent again later."
+    },
+    {
+      "question": "Can I rent a laptop outside of my city?",
+      "answer": "Yes, RentalVerse provides services in multiple cities, and we deliver across various locations."
+    },
+    {
+      "question": "Do you offer laptops for short-term rentals?",
+      "answer": "Yes, short-term rentals are available starting from 1 month."
+    },
+    {
+      "question": "What happens if I lose the laptop?",
+      "answer": "If you lose the laptop, you may be liable for the full replacement cost or part of it, depending on your rental agreement."
+    },
+    {
+      "question": "Can I customize the laptop configuration?",
+      "answer": "Custom configurations are available for long-term rentals or bulk orders. Contact support for specific requests."
+    },
+    {
+      "question": "Do you rent laptops internationally?",
+      "answer": "Currently, RentalVerse operates within specific countries. Check availability in your region."
+    },
+    {
+      "question": "Are the rented laptops insured?",
+      "answer": "Basic insurance is included, covering certain types of damages. Additional insurance can be purchased for better coverage."
+    },
+    {
+      "question": "What is the minimum specification of the laptops?",
+      "answer": "Our laptops start with a minimum configuration of Intel i5 processors, 8GB RAM, and 256GB SSD."
+    },
+    {
+      "question": "Do you provide laptops for remote work?",
+      "answer": "Yes, RentalVerse provides laptops that are ideal for remote work with high-speed processing and collaboration tools pre-installed."
+    },
+    {
+      "question": "Can I rent high-performance laptops for gaming?",
+      "answer": "Yes, we have high-performance gaming laptops available for rent."
+    },
+    {
+      "question": "Do you offer laptop rentals for businesses?",
+      "answer": "Yes, we offer rental solutions for businesses, including bulk orders and custom configurations."
+    },
+    {
+      "question": "How do I update my billing information?",
+      "answer": "You can update your billing information by logging into your account and going to the 'Billing' section."
+    },
+    {
+      "question": "Do you offer any loyalty programs or benefits?",
+      "answer": "Yes, we offer loyalty programs for repeat customers with exclusive discounts and offers."
+    },
+    {
+      "question": "Can I request a specific brand of laptop?",
+      "answer": "Yes, you can request specific brands like Dell, HP, Apple, etc., subject to availability."
+    },
+    {
+      "question": "Are there any hidden fees?",
+      "answer": "No, RentalVerse provides full transparency, and all costs are clearly outlined during the rental process."
+    },
+    {
+      "question": "What if I forget to return the laptop?",
+      "answer": "If you forget to return the laptop, we will notify you, and late fees may apply."
+    },
+    {
+      "question": "Is there a warranty on the rented laptops?",
+      "answer": "Yes, all rented laptops come with a limited warranty covering hardware malfunctions."
+    },
+    {
+      "question": "Can I transfer my rental to someone else?",
+      "answer": "Rental agreements are non-transferable. However, you can contact support for special requests."
+    },
+    {
+      "question": "Do you offer rental services for events or conferences?",
+      "answer": "Yes, we provide laptops for events, conferences, and seminars on short-term rental plans."
+    },
+    {
+      "question": "Can I pre-order a laptop for a specific date?",
+      "answer": "Yes, you can pre-order laptops for a future date to ensure availability."
+    },
+    {
+      "question": "Do you offer laptops with Linux installed?",
+      "answer": "Yes, laptops with Linux operating systems can be provided upon request."
+    },
+    {
+      "question": "How do I report an issue with my rental?",
+      "answer": "You can report any issues by contacting our customer support or via the 'My Orders' section on the website."
+    },
+    {
+      "question": "Can I rent additional storage devices?",
+      "answer": "Yes, external hard drives and SSDs are available for rent as accessories."
+    },
+    {
+      "question": "Are the laptops cleaned before delivery?",
+      "answer": "Yes, all laptops are thoroughly cleaned and sanitized before delivery."
+    },
+    {
+      "question": "Do you offer long-term rentals for students?",
+      "answer": "Yes, we offer long-term rental plans for students with flexible pricing."
+    },
+    {
+      "question": "Can I pause my rental if I’m traveling?",
+      "answer": "Rental plans cannot be paused, but you can return the laptop early and re-rent it when you're back."
+    },
+    {
+      "question": "Are there any limitations on usage during the rental period?",
+      "answer": "You are free to use the laptop for any legal purpose during the rental period."
+    },
+    {
+      "question": "Do I need to return the laptop with its original packaging?",
+      "answer": "Returning the laptop with the original packaging is preferred but not mandatory."
+    },
+    {
+      "question": "Can I rent a laptop if I’m outside the serviceable area?",
+      "answer": "Currently, we serve specific areas, but we are expanding. Check if your location is covered during checkout."
+    },
+    {
+      "question": "Do you offer monthly or weekly payment options?",
+      "answer": "Yes, both monthly and weekly payment options are available, depending on your rental plan."
+    },
+    {
+      "question": "Can I rent a laptop if I don't have a student ID?",
+      "answer": "Yes, our services are available to both students and working professionals."
+    },
+    {
+      "question": "Are there additional fees for late payments?",
+      "answer": "Yes, late payments may incur additional fees depending on the delay."
+    },
+    {
+      "question": "How do I know which laptop is best for my needs?",
+      "answer": "You can consult our support team or use the laptop comparison feature on our website to find the best fit."
+    },
+    {
+      "question": "Can I change my delivery address after placing an order?",
+      "answer": "You can change your delivery address before the laptop is shipped by contacting customer support."
+    },
+    {
+      "question": "Do you offer seasonal discounts?",
+      "answer": "Yes, we offer seasonal discounts during holidays and special occasions. Keep an eye on our promotions page."
+    },
+    {
+      "question": "Is technical support included with my rental?",
+      "answer": "Yes, basic technical support is included with your rental. For complex issues, we offer premium support services."
+    },
+    {
+      "question": "Do you provide laptops for international students?",
+      "answer": "Yes, as long as the rental is within the country we operate in, international students are welcome."
+    },
+    {
+      "question": "Can I rent a laptop for someone else?",
+      "answer": "You can rent a laptop under your account and have it delivered to someone else. Ensure to notify customer support."
+    },
+    {
+      "question": "Can I rent laptops for a classroom or lab?",
+      "answer": "Yes, we offer bulk rentals for classrooms, labs, and educational institutions."
+    },
+    {
+      "question": "Can I choose the color of the laptop?",
+      "answer": "Laptop color is subject to availability, but you can request a preferred color during the checkout process."
+    },
+    {
+      "question": "Are chargers and adapters included with the rental?",
+      "answer": "Yes, all necessary chargers and adapters are included with the rental."
+    },
+    {
+      "question": "Do you provide laptops with docking stations?",
+      "answer": "Docking stations can be rented as accessories if you need them for your workspace setup."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "You can cancel your order before it is shipped. After shipping, a cancellation fee may apply."
+    },
+    {
+      "question": "How can I contact customer support?",
+      "answer": "You can contact customer support via phone, email, or live chat through our website."
+    }
+  ]
+}
