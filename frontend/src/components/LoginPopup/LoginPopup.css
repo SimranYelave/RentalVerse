@@ -33,6 +33,46 @@
     font-weight: bold;
 }
 
+
+.radio{
+  /* border:solid black 2px; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.radio-1{
+    /* border:solid black 2px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90px;
+}
+
+.radio-2{
+    /* border:solid black 2px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90px;
+}
+.radio-1 input[type="radio"] {
+    accent-color: tomato;
+    cursor: pointer;
+    height: 20px;
+    width:20px;
+    /* border: 5px solid black; */
+}
+
+.radio-2 input[type="radio"] {
+    accent-color:tomato;
+    cursor: pointer;
+    height: 20px;
+    width:20px;
+    /* border: 5px solid black; */
+}
+
 .login-popup-title img {
     width: 16px;
     cursor: pointer;

@@ -61,8 +61,12 @@ import profile_icon from './profile_icon.png'
 import bag_icon from './bag_icon.png'
 import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
+import cred from './cred.png'
+import pal from './pal.png'
 
 export const assets = {
+    cred,
+    pal,
     logo,
     basket_icon,
     header_img1,
@@ -120,7 +124,7 @@ export const menu_list = [
         menu_image: menu_8
     }]
 
-export const food_list = [
+export const Item_list = [
     {
         _id: "1",
         name: "Apple MacBook Air Laptop M1 chip",
