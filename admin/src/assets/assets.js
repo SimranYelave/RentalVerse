@@ -9,6 +9,7 @@ import logo1 from './logo1.png'
 import add from './add.svg'
 import list from './list.svg'
 import order from './orders.svg'
+import uploadicon from './uploadicon.png'
 
 
 export const assets = {
@@ -22,6 +23,7 @@ export const assets = {
     logo1,
     add,
     list,
-    order
+    order,
+    uploadicon
 
 }
