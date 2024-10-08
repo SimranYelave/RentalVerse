@@ -149,3 +149,42 @@
         font-size: 13px;
     }
 }
+
+.navbar-profile{
+    position: relative;
+}
+
+.nav-profile-dropdown{
+    position:absolute;
+    display:none;
+    right:0;
+    z-index:1;
+}
+
+.navbar-profile:hover .nav-profile-dropdown {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background:rgb(255, 202, 193);
+    padding: 12px 25px;
+    border-radius: 5px;
+    border: 1px solid tomato;
+    outline: 2px solid rgb(245, 48, 13);
+    list-style: none;
+    cursor: pointer;
+  }
+
+.nav-profile-dropdown li{
+display: flex;
+align-items: center;
+gap:10px;
+cursor: pointer;
+ }
+
+.nav-profile-dropdown img{
+    width:35px;
+}
+
+.nav-profile-dropdown li:hover{
+        color:tomato;
+    }
