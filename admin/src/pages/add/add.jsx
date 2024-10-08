@@ -5,7 +5,7 @@ const Add = ()=>{
 
 
     return(
-        <div className='Content'>
+    <div className='Content'>
          hii
         </div>
     )

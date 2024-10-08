@@ -4,7 +4,9 @@ import cors from 'cors';
 import {connectDB} from "../backend/config/db.js";// importing the module form another file 
 import Router from "../backend/routers/router.js";// importing the module form another file 
 import userRouter from './routers/userRouter.js';
-
+import 'dotenv/config'
+import cartRouter from './routers/cartroute.js';
+import orderrouter from './routers/orderRouter.js';
 
 //app config 
 const app = express();
@@ -22,6 +24,8 @@ connectDB();
 app.use("/api/laptop",Router)
 app.use("/images",express.static('uploads'))// due to this uploads folder will be exposed to the /images endpoint
 app.use("/api/user",userRouter)
+app.use("/api/cart",cartRouter)
+app.use("/api/order",orderrouter)
 
  app.get("/",(req,res)=>{
 
